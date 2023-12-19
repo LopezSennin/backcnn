@@ -10,14 +10,14 @@ app = Flask(__name__)
 CORS(app)
 
 # Cargar el modelo de TensorFlow
-modelo = tf.keras.models.load_model('Backend/modelo/modeloV1')
+modelo = tf.keras.models.load_model('modelo/modeloV1')
 
 # Cargar mapeo de índices de clase a etiquetas de aves desde un archivo JSON
-with open('Backend/decripcion.json', 'r') as file:
+with open('decripcion.json', 'r', encoding='utf-8') as file:
     indice_a_etiqueta = json.load(file)
 
 # Cargar información adicional sobre las especies de aves desde un archivo JSON
-with open('Backend/decripcion.json', 'r') as file:
+with open('decripcion.json', 'r', encoding='utf-8') as file:
     informacion_especies = json.load(file)
 
 def preparar_imagen(imagen, tamaño_objetivo):
