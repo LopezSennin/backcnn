@@ -1,0 +1,148 @@
+{
+    "0": {
+      "especie": "Anseriformes",
+      "caracteristicas": "Orden de aves acuáticas,Incluye patos, gansos y cisnes",
+      "habitat": "Hábitats acuáticos como lagos, ríos y humedales"
+    },
+    "1": {
+      "especie": "Apodiformes",
+      "caracteristicas": "Orden de aves pequeñas, Incluye vencejos y colibríes",
+      "habitat": "Principalmente áreas boscosas y selvas tropicales"
+    },
+    "2": {
+      "especie": "Apterygiformes",
+      "caracteristicas": "Orden que incluye el kiwi, ave no voladora de Nueva Zelanda",
+      "habitat": "Bosques y áreas arboladas de Nueva Zelanda"
+    },
+    "3": {
+      "especie": "Caprimulgiformes",
+      "caracteristicas": "Orden que incluye chotacabras y urracas",
+      "habitat": "Variedad de hábitats, desde bosques hasta zonas urbanas"
+    },
+    "4": {
+      "especie": "Casuariiformes",
+      "caracteristicas": "Orden que incluye avestruces y emús",
+      "habitat": "Áreas abiertas, sabanas y bosques en Australia y Nueva Guinea"
+    },
+    "5": {
+      "especie": "Charadriiformes",
+      "caracteristicas": "Orden de aves costeras, Incluye gaviotas, alcatraces y flamencos",
+      "habitat": "Hábitats costeros, playas y estuarios"
+    },
+    "6": {
+      "especie": "Ciconiiformes",
+      "caracteristicas": "Orden que incluye cigüeñas y garzas",
+      "habitat": "Áreas húmedas y pantanosas"
+    },
+    "7": {
+      "especie": "Coliiformes",
+      "caracteristicas": "Orden que incluye el ave ratón, pequeña y africana",
+      "habitat": "Bosques y selvas de África subsahariana"
+    },
+    "8": {
+      "especie": "Columbiformes",
+      "caracteristicas": "Orden que incluye palomas y tórtolas",
+      "habitat": "Diversos hábitats, desde bosques hasta áreas urbanas"
+    },
+    "9": {
+      "especie": "Coraciiformes",
+      "caracteristicas": "Orden que incluye martines pescadores y abejarucos",
+      "habitat": "Principalmente áreas boscosas y ríos"
+    },
+    "10": {
+      "especie": "Cuculiformes",
+      "caracteristicas": "Orden que incluye cuclillos y koalas",
+      "habitat": "Bosques y selvas tropicales"
+    },
+    "11": {
+      "especie": "Falconiformes",
+      "caracteristicas": "Orden que incluye halcones y águilas",
+      "habitat": "Variedad de hábitats, desde montañas hasta desiertos"
+    },
+    "12": {
+      "especie": "Galliformes",
+      "caracteristicas": "Orden que incluye faisanes, pavos y pollos",
+      "habitat": "Diversos hábitats, desde bosques hasta praderas"
+    },
+    "13": {
+      "especie": "Gaviiformes",
+      "caracteristicas": "Orden que incluye somormujos y colimbos",
+      "habitat": "Lagos, lagunas y áreas acuáticas"
+    },
+    "14": {
+      "especie": "Gruiformes",
+      "caracteristicas": "Orden que incluye grullas y rallidos",
+      "habitat": "Humedales y áreas de vegetación densa"
+    },
+    "15": {
+      "especie": "Passeriformes",
+      "caracteristicas": "Orden que incluye la mayoría de las aves cantoras",
+      "habitat": "Diversos hábitats, desde bosques hasta áreas urbanas"
+    },
+    "16": {
+      "especie": "Pelecaniformes",
+      "caracteristicas": "Orden que incluye pelícanos y cormoranes",
+      "habitat": "Hábitats acuáticos, costas y islas"
+    },
+    "17": {
+      "especie": "Phoenicopteriformes",
+      "caracteristicas": "Orden que incluye flamencos",
+      "habitat": "Hábitats acuáticos, lagos salinos y lagunas"
+    },
+    "18": {
+      "especie": "Piciformes",
+      "caracteristicas": "Orden que incluye pájaros carpinteros y tucanes",
+      "habitat": "Principalmente bosques tropicales y subtropicales"
+    },
+    "19": {
+      "especie": "Podicipediformes",
+      "caracteristicas": "Orden que incluye zampullines y falaropos",
+      "habitat": "Lagos, estanques y áreas acuáticas"
+    },
+    "20": {
+      "especie": "Procellariiformes",
+      "caracteristicas": "Orden que incluye petreles y albatros",
+      "habitat": "Océanos y áreas marinas remotas"
+    },
+    "21": {
+      "especie": "Psittaciformes",
+      "caracteristicas": "Orden que incluye loros y cacatúas",
+      "habitat": "Principalmente selvas tropicales y zonas forestales"
+    },
+    "22": {
+      "especie": "Pteroclidiformes",
+      "caracteristicas": "Orden que incluye gangas y alcaravanes",
+      "habitat": "Zonas secas y desérticas"
+    },
+    "23": {
+      "especie": "Rheiformes",
+      "caracteristicas": "Orden que incluye el ñandú, ave no voladora de América del Sur",
+      "habitat": "Estepas y sabanas de América del Sur"
+    },
+    "24": {
+      "especie": "Sphenisciformes",
+      "caracteristicas": "Orden que incluye pingüinos",
+      "habitat": "Zonas costeras y oceánicas del hemisferio sur"
+    },
+    "25": {
+      "especie": "Strigiformes",
+      "caracteristicas": "Orden que incluye búhos y lechuzas",
+      "habitat": "Variedad de hábitats, desde bosques hasta zonas urbanas"
+    },
+    "26": {
+      "especie": "Struthioniformes",
+      "caracteristicas": "Orden que incluye el avestruz, ave no voladora más grande",
+      "habitat": "Zonas secas y sabanas de África"
+    },
+    "27": {
+      "especie": "Tinamiformes",
+      "caracteristicas": "Orden que incluye tinamúes, aves de América",
+      "habitat": "Bosques, selvas y áreas de matorral de América"
+    },
+    "28": {
+      "especie": "Trogoniformes",
+      "caracteristicas": "Orden que incluye trogones, aves tropicales",
+      "habitat": "Selvas tropicales y subtropicales"
+    }
+  }
+  
